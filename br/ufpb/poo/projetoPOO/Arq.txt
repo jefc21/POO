@@ -1,0 +1,20 @@
+exercico novo
+1
+002
+lista 1 de exercicio
+3
+VouF
+1
+Hoje é sabado?
+true
+Dissertativa
+2
+Hoje é ?
+sabado
+Mult
+1
+Quantos Mundiais o Brasil tem no futebol 2 5 6 4
+5
+
+
+ 
